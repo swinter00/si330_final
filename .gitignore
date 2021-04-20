@@ -1,5 +1,2 @@
-*.csv
-*.xls
-/ap_info
-/census_info
 .ipynb*
+*.png
